@@ -6,9 +6,8 @@ This is a simple To Do List Android app with Kotlin.
 
 That's all. Thank you.
 
+&nbsp;
 
 Sincerely,
-
-&nbsp;
 
 Ridhan Fadhilah
